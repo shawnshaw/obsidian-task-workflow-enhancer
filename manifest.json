@@ -1,0 +1,11 @@
+{
+  "id": "task-workflow-enhancer",
+  "name": "Task Workflow Enhancer",
+  "version": "0.2.0",
+  "minAppVersion": "1.5.0",
+  "description": "Full-featured task workspace: inbox triage, subtasks, project views, weekly reports, and archive workflows with inline action buttons.",
+  "author": "Oscar Shao",
+  "authorUrl": "https://github.com/Os",
+  "fundingUrl": "https://github.com/sponsors/Os",
+  "isDesktopOnly": false
+}

@@ -1,0 +1,9 @@
+{
+  "0.2.0": "Add embedded workspace code block, data source tabs, archive workflows (knowledge/evidence), weekly report modal",
+  "0.1.5": "Improve subtask editor with WAIT/BLOCKED validation, add subtask archive",
+  "0.1.4": "Add complexity tags (C1-C5), project tag management",
+  "0.1.3": "Add workspace tabs (Today/Tomorrow/Weekly/Projects), sidebar navigation",
+  "0.1.2": "Add inline editor action buttons (time, triage, date, project)",
+  "0.1.1": "Add weekly report generation, improve date/time picker modals",
+  "0.1.0": "Initial release with inbox triage, subtasks, project views, task detail"
+}
